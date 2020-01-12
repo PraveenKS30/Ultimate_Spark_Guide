@@ -32,3 +32,9 @@ Horizontal parallelism in PySpark :
 
 https://medium.com/@somanathsankaran/horizontal-parallelism-with-pyspark-d05390aa1df5
 
+Spark performance tuning from the trenches :
+
+medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60
+
+
+
