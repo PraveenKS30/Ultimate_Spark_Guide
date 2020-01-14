@@ -24,12 +24,12 @@ https://www.coursera.org/learn/big-data-analysis#syllabus
 
 #### Summary :
 
-RDD consists of partitions
-Partition is an atomic unit of parallelism.
-RDD may have narrow or wide dependencies.
-Narrow dependencies can be pipelined.
-Wide dependencies cause shuffles, which creates new stages.
-Shuffles are expensive.
+`RDD consists of partitions
+`Partition is an atomic unit of parallelism.
+`RDD may have narrow or wide dependencies.
+`Narrow dependencies can be pipelined.
+`Wide dependencies cause shuffles, which creates new stages.
+`Shuffles are expensive.
 
 ## Articles :
 
