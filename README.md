@@ -22,6 +22,15 @@ Spark Internals and Optimization : Chapter 6
 
 https://www.coursera.org/learn/big-data-analysis#syllabus 
 
+#### Summary :
+
+RDD consists of partitions
+Partition is an atomic unit of parallelism.
+RDD may have narrow or wide dependencies.
+Narrow dependencies can be pipelined.
+Wide dependencies cause shuffles, which creates new stages.
+Shuffles are expensive.
+
 ## Articles :
 
 Distribution of executors cores and memory for spark application :
