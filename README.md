@@ -6,13 +6,8 @@ https://gofastdemostorageaccount.blob.core.windows.net/databricks-notebooks/Comp
 
 Free courses:
 
-1. Distributed computing with Spark SQL :
-
-https://www.coursera.org/learn/spark-sql
-
-2. Udacity: Spark by insight
-
-https://www.udacity.com/course/learn-spark-at-udacity--ud2002
+1. Distributed computing with Spark SQL : https://www.coursera.org/learn/spark-sql
+2. Udacity: Spark by insight: https://www.udacity.com/course/learn-spark-at-udacity--ud2002
 
 Paid Courses:
 
