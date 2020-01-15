@@ -28,6 +28,12 @@ Spark Internals and Optimization : Chapter 6
 
 https://www.coursera.org/learn/big-data-analysis#syllabus 
 
+Databricks on AWS Training - 01 Getting Started with Apache Spark: https://vimeo.com/338061950
+
+Databricks on AWS Training - 02 Data Engineering and Streaming Analytics : https://vimeo.com/337349608
+
+Databricks on AWS Training - 03 Machine Learning : https://vimeo.com/337351024
+
 #### Summary :
 
 `1. RDD consists of partitions` </br>
