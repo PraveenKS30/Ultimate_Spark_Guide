@@ -51,5 +51,22 @@ Spark performance tuning from the trenches :
 
 medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60
 
+Summit and Talks :
+
+1. Building Reliable Data Lakes at Scale with Delta Lakes
+
+ https://databricks.com/session_eu19/building-reliable-data-lakes-at-scale-with-delta-lake-4
+ 
+2. How to Tune and Optimize the Performance of Apache Spark Data Pipelines
+
+ https://databricks.com/session_eu19/how-to-tune-and-optimize-the-performance-of-apache-spark-data-pipelines
+
+3. How to Automate Performance Tuning for Apache Spark
+
+ databricks.com/session_eu19/how-to-automate-performance-tuning-for-apache-spark
+
+4. Implementing a Reliable Data Lake with Databricks Delta and the AWS Ecosystem
+
+ databricks.com/session_eu19/implementing-a-reliable-data-lake-with-databricks-delta-and-the-aws-ecosystem
 
 
