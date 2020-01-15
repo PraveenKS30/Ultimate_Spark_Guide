@@ -4,13 +4,24 @@ https://gofastdemostorageaccount.blob.core.windows.net/databricks-notebooks/Comp
 
 ## Course :
 
-Distributed computing with Spark SQL :
+Free courses:
+
+1. Distributed computing with Spark SQL :
 
 https://www.coursera.org/learn/spark-sql
 
-Udacity: Spark by insight
+2. Udacity: Spark by insight
 
 https://www.udacity.com/course/learn-spark-at-udacity--ud2002
+
+Paid Courses:
+
+1. Datacamp : Introduction to Spark SQL in Python
+2. Datacamp : Introduction to PySpark
+3. Datacamp : Big Data fundamentals with PySpark
+4. Datacamp : Cleaning data with PySpark
+5. Datacamp : Machine Learning with PySpark
+
 
 ## Videos :
 
