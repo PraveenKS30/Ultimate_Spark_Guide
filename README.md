@@ -34,6 +34,8 @@ Databricks on AWS Training - 02 Data Engineering and Streaming Analytics : https
 
 Databricks on AWS Training - 03 Machine Learning : https://vimeo.com/337351024
 
+Deep Dive into Spark SQL with Advanced Performance Tuning: vimeo.com/274390145
+
 #### Summary :
 
 `1. RDD consists of partitions` </br>
