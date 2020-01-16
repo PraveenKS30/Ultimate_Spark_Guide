@@ -20,30 +20,24 @@ Paid Courses:
 
 ## Videos :
 
-Spark SQL and Spark Dataframe : Chapter 3
+1. Spark SQL and Spark Dataframe : Chapter 3 : https://www.coursera.org/learn/big-data-analysis#syllabus 
+2. Spark Internals and Optimization : Chapter 6 : https://www.coursera.org/learn/big-data-analysis#syllabus 
+   
+   #### Summary :
 
-https://www.coursera.org/learn/big-data-analysis#syllabus 
+  `1. RDD consists of partitions` </br>
+  `2. Partition is an atomic unit of parallelism.`</br>
+  `3. RDD may have narrow or wide dependencies.` </br>
+  `4. Narrow dependencies can be pipelined.`</br>
+  `5. Wide dependencies cause shuffles, which creates new stages.`</br>
+  `6. Shuffles are expensive.`
 
-Spark Internals and Optimization : Chapter 6
+3. Databricks on AWS Training - 01 Getting Started with Apache Spark: https://vimeo.com/338061950
+4. Databricks on AWS Training - 02 Data Engineering and Streaming Analytics : https://vimeo.com/337349608
+5. Databricks on AWS Training - 03 Machine Learning : https://vimeo.com/337351024
+6. Deep Dive into Spark SQL with Advanced Performance Tuning: vimeo.com/274390145
 
-https://www.coursera.org/learn/big-data-analysis#syllabus 
 
-Databricks on AWS Training - 01 Getting Started with Apache Spark: https://vimeo.com/338061950
-
-Databricks on AWS Training - 02 Data Engineering and Streaming Analytics : https://vimeo.com/337349608
-
-Databricks on AWS Training - 03 Machine Learning : https://vimeo.com/337351024
-
-Deep Dive into Spark SQL with Advanced Performance Tuning: vimeo.com/274390145
-
-#### Summary :
-
-`1. RDD consists of partitions` </br>
-`2. Partition is an atomic unit of parallelism.`</br>
-`3. RDD may have narrow or wide dependencies.` </br>
-`4. Narrow dependencies can be pipelined.`</br>
-`5. Wide dependencies cause shuffles, which creates new stages.`</br>
-`6. Shuffles are expensive.`
 
 ## Articles :
 
